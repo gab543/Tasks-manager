@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# Redirige tout vers /public
+RewriteRule ^$ public/ [L]
+
